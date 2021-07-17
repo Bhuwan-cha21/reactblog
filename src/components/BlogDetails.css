@@ -1,0 +1,15 @@
+.BlogDetails{
+   width: 100%;
+   margin-top:14vh;
+}
+.BlogDetails-Headline{
+    Color:rgb(226, 46, 76);
+    text-align: center;
+}
+.BlogDetails-Main{
+   margin: 1vh;
+   background-color: rgb(202, 226, 206);
+   border-radius: 10px;
+   text-align: center;
+   
+}

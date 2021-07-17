@@ -1,0 +1,25 @@
+.Header{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #649173; 
+    background: -webkit-linear-gradient(to right, #c9bc5f, #649173);  
+    background: linear-gradient(to right, #bbac3c, #649173);
+    box-shadow:0 0 100px 0 black;
+    color: white;
+    z-index: 999;
+    position:fixed;
+
+}
+.Link{
+    text-decoration: none;
+    height:auto;
+    width: auto;
+    background-color: rgb(140, 180, 147);
+    color:white;
+    text-align: center;
+    margin-right: 5px;
+    font-size: 4vh;
+}
